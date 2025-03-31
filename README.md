@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-💻 Aspiring Full Stack Developer | Data Enthusiast
+## 💻 Aspiring Full Stack Developer | Data Enthusiast
+
 🚀 Currently working on personal projects to deepen my expertise in front-end web technologies.
 📊 Passionate about data analytics & visualization, integrating my web development skills with my academic background in data science.
 
