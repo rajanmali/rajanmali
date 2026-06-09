@@ -24,40 +24,22 @@ Currently working at **Fuzn Studios** building client marketing websites and a s
 
 ---
 
-## 💼 Experience
+## 🚀 Key Projects
 
-**Front-End Developer** — Fuzn Studios &nbsp;*(Nov 2025 – Present)*
-- Build and ship page sections and components for client marketing websites using React + TypeScript, from designer specs to production deployment
-- - Maintain and iterate on existing Next.js codebases — resolving layout issues and deploying performance improvements
-  - - Built a shared React component library (21 components, 5 themes, dark mode) standardising UI delivery across multiple concurrent client projects
-   
-    - **Front-End Developer** — Bitsbeat IT Solutions &nbsp;*(Sep 2019 – Dec 2021)*
-    - - Shipped 5+ responsive web applications and marketing sites in React, delivering pixel-accurate interfaces from designer handoff to production
-      - - Reduced codebase complexity by ~30% in a large-scale React application through component refactoring
-        - - Consumed and debugged REST APIs end-to-end, coordinating with backend engineers to ship complete features
-         
-          - ---
+**[rajanmali.com](https://rajanmali.com) — Personal Portfolio** &mdash; `Next.js 15` `Sanity CMS` `TypeScript` `Tailwind CSS` `Vercel`
 
-          ## 🚀 Key Projects
+Built a fully custom personal site using Next.js 15 App Router with Sanity as the headless CMS. Designed Sanity schemas for content types, wrote GROQ queries, and wired the Studio to the front-end component layer. ISR for content-heavy pages; deployed on Vercel with preview environments on every PR. Scored 95+ across all Google Lighthouse categories with WCAG AA accessibility throughout.
 
-          **[rajanmali.com](https://rajanmali.com)** — Personal Portfolio &nbsp;`Next.js 15 · Sanity CMS · TypeScript · Tailwind CSS · Cloudflare Workers`
-          > Personal site with technical log, shipped builds, and dev stack. Scored 95+ across all Google Lighthouse categories. Built with WCAG AA accessibility and ISR for content-heavy pages.
-          >
-          > **[UI Forge](https://rajanmali.github.io/UI-Forge)** — React Component Library &nbsp;`React · TypeScript · Redux Toolkit · RTK Query · Storybook · GitHub Actions`
-          > > 21-component library with 5 themes, dark mode, and full Storybook documentation. CI/CD via GitHub Actions with automated Vitest testing on every push.
-          > >
-          > > **[DCJ CMS Prototype](https://rajanmali.github.io/dcj-cms-prototype)** — Government CMS &nbsp;`React · TypeScript · Vitest · GitHub Actions`
-          > > > AEM-inspired content management prototype with a 3-stage publishing workflow, built to NSW Government Design System standards.
-          > > >
-          > > > ---
-          > > >
-          > > > ## 🌐 Socials
-          > > >
-          > > > [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notrajanmali) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@notrajanmali)
-          > > >
-          > > > ---
-          > > >
-          > > > ## 📊 GitHub Stats
-          > > >
-          > > > ![](https://github-readme-stats.vercel.app/api?username=rajanmali&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-          ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanmali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**[UI Forge](https://rajanmali.github.io/UI-Forge) — React Component Library** &mdash; `React` `TypeScript` `Redux Toolkit` `RTK Query` `Storybook` `GitHub Actions`
+
+Designed and published a 21-component React library with 5 themes, dark mode, and full Storybook documentation. CI/CD via GitHub Actions with automated Vitest testing on every push.
+
+**[DCJ CMS Prototype](https://github.com/rajanmali/dcj-cms-prototype) — Government CMS** &mdash; `React` `TypeScript` `Vitest` `GitHub Actions`
+
+AEM-inspired content management prototype with a 3-stage publishing workflow and multifield card editing. Wrote Vitest unit tests and configured GitHub Actions for automated test runs on every commit.
+
+---
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rajanmali_/)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rajanmali)
